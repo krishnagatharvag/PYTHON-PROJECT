@@ -1,7 +1,1 @@
-def new():
-    print("first line")
-
-    print("last line")
-
-
-print(new())
+print("Hellow I have created new file")
