@@ -674,6 +674,8 @@ lenght=len(l)
 
 print(list(range(l[-1],l[-7],-1)))
 print(list(range(21,4,-1)))# this is strightforword
+l=[1,2,3,4,5,6,7,8,9]
+print(l[-1:4:-1])
 
 """
 """
